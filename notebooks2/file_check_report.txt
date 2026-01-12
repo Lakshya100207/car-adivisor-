@@ -1,0 +1,17 @@
+File Check Report
+==================================================
+Found: 0 files
+Missing: 11 files
+
+Missing files:
+- models/final/champion_model_r2_0.8078.pkl
+- models/production/car_price_predictor_v1.pkl
+- models/final/ensemble_model.pkl
+- models/final/ultimate_ensemble.pkl
+- data/cars_sample.json
+- data/car_data.csv
+- intent_labels.json
+- simple_intent_detector.py
+- chatbot.py
+- train_model.py
+- models/final/project_report_*.md
