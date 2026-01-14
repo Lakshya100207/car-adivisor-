@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Toyota Innova Crysta",
+    "price": 2550000,
+    "fuel_type": "Diesel",
+    "seating_capacity": 8,
+    "safety_rating": "5-star",
+    "model_year": 2025
+  },
+  {
+    "name": "Maruti Ertiga",
+    "price": 1420000,
+    "fuel_type": "Petrol",
+    "seating_capacity": 7,
+    "safety_rating": "4-star",
+    "model_year": 2025
+  }
+]
